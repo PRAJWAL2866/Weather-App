@@ -1,1 +1,1 @@
-The Weather App provides live weather data for any city worldwide using a weather API. Users can search for locations and instantly view temperature, humidity, wind speed, and conditions with a clean, user-friendly interface. The app is designed with responsiveness in mind, ensuring smooth performance across desktop and mobile devices. This project showcases API integration, React components, and dynamic UI rendering.
+
